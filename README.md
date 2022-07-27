@@ -1,2 +1,2 @@
 # portfolio-FrontEnd
-My portfolio 📊📝💼
+💼 My portfolio 
